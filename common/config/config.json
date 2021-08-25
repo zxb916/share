@@ -1,0 +1,30 @@
+{
+  "email": {
+    "msg_from": "qq.email",
+    "password": "pwd",
+    "msg_to": "qq.email",
+    "smtp_server": "smtp.qq.com",
+    "wait_time": 15,
+    "if_send_email": false
+  },
+  "account": {
+    "username": "username",
+    "password": "pwd"
+  },
+  "trade": {
+    "frequency": 2,
+    "current_type": "buy",
+    "buy_time_window": 30,
+    "sela_time_window": 5,
+    "simulate": false,
+    "simulate-day": "2020-08-28",
+    "redis_save": true
+  },
+  "selenium": {
+    "implicit": 5,
+    "explicit": 20
+  },
+  "data_source": "tt",
+  "annotation": "sn xin_lang、tt ten_xun、nt wang_yi"
+}
+
